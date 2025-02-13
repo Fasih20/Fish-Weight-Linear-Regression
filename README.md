@@ -13,16 +13,13 @@ This project applies **multiple linear regression** to predict the weight of fis
 
   
 ## 📈 Model Performance
-
-    Validation R² Score: 0.92
-    Test R² Score: 0.95
-    Mean Squared Error: 6378.6
+- Validation R² Score: 0.92
+- Test R² Score: 0.95
+- Mean Squared Error: 6378.6
 
 ## 🏷️ Dependencies
-
-    Python 3.x
-    NumPy
-    Pandas
-    Scikit-learn
-    Matplotlib
-    Seaborn
+-Python 3.x
+-NumPy
+-Pandas
+-Scikit-learn
+-MatplotlibSeaborn
