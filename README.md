@@ -18,8 +18,8 @@ This project applies **multiple linear regression** to predict the weight of fis
 - Mean Squared Error: 6378.6
 
 ## 🏷️ Dependencies
--Python 3.x
--NumPy
--Pandas
--Scikit-learn
--MatplotlibSeaborn
+- Python 3.x
+- NumPy
+- Pandas
+- Scikit-learn
+- MatplotlibSeaborn
